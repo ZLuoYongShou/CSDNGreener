@@ -1,4 +1,4 @@
-// ==UserScript==
+// ==UserScript==/
 // @name         (持续更新)CSDN页面浮窗广告完全过滤净化(净化复制内容|自动展开|让你专注于文章|不影响功能使用)
 // @namespace    https://github.com/AdlerED
 // @version      1.5.0
